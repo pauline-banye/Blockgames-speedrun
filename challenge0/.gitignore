@@ -4,6 +4,9 @@ packages/subgraph/abis/*
 packages/hardhat/*.txt
 **/aws.json
 
+node_modules
+
+
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 **/node_modules
 
@@ -15,6 +18,7 @@ packages/hardhat/cache*
 packages/**/data
 !packages/react-app/src/contracts/contracts.js
 
+.vscode
 
 # ts
 packages/hardhat-ts/cache

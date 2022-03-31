@@ -1,3 +1,6 @@
+# Mint url: https://ipfs.io/ipfs/QmeferBAx3fRBAFSuMa2HDUFXFiQD57smgbcqfeQFCDEMn/
+# Verified contract address: https://rinkeby.etherscan.io/address/0x2D82E1A2e9cdd31F1Fd57416Cb87474769837900#code
+
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
 ## 🚩 Challenge 0: 🎟 Simple NFT Example 🤓
@@ -226,5 +229,3 @@ https://testnets.opensea.io/assets/0xc2839329166d3d004aaedb94dde4173651babccf/1
 
 
 
-Mint url: https://ipfs.io/ipfs/QmeferBAx3fRBAFSuMa2HDUFXFiQD57smgbcqfeQFCDEMn/
-Verified contract address: https://rinkeby.etherscan.io/address/0x2D82E1A2e9cdd31F1Fd57416Cb87474769837900#code
