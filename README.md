@@ -8,9 +8,9 @@ Mint url: https://ipfs.io/ipfs/QmeferBAx3fRBAFSuMa2HDUFXFiQD57smgbcqfeQFCDEMn/
 Verified contract address: https://rinkeby.etherscan.io/address/0x2D82E1A2e9cdd31F1Fd57416Cb87474769837900#code
 
 ## Challenge 1
-VERIFIED ADDRESS: https://rinkeby.etherscan.io/address/0x129B9523785407Ae02459008A93b7eFa61F0fc0A#code
+VERIFIED ADDRESS: https://rinkeby.etherscan.io/address/0x867B2E694C246b2daaDE7fD75a20B96354230382#code
 
-URL: https://ipfs.io/ipfs/QmbASd5d9bfwUr5knneb5YTewfU9B5DEawSb9Ndmg6YDcF
+URL: https://ipfs.io/ipfs/Qma3KNLDRwwPH4vNhDkKRY6AASPXjSzYQf5otT3ahPeb2M
 
 
 ## Challenge 2
