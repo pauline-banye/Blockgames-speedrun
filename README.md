@@ -3,12 +3,14 @@
 Recreate challenges 0 - 2 from https://speedrunethereum.com/
 
 ## Challenge 0 
-Mint url: https://ipfs.io/ipfs/QmeferBAx3fRBAFSuMa2HDUFXFiQD57smgbcqfeQFCDEMn/
+Ipfs url: https://ipfs.io/ipfs/QmeferBAx3fRBAFSuMa2HDUFXFiQD57smgbcqfeQFCDEMn/
+
+Surge url: https://well-off-leaf.surge.sh/
 
 Verified contract address: https://rinkeby.etherscan.io/address/0x2D82E1A2e9cdd31F1Fd57416Cb87474769837900#code
 
 ## Challenge 1
-VERIFIED ADDRESS: https://rinkeby.etherscan.io/address/0x867B2E694C246b2daaDE7fD75a20B96354230382#code
+Verified contract address: https://rinkeby.etherscan.io/address/0x867B2E694C246b2daaDE7fD75a20B96354230382#code
 
 Surge url: awesome-turn.surge.sh
 
