@@ -10,10 +10,14 @@ Verified contract address: https://rinkeby.etherscan.io/address/0x2D82E1A2e9cdd3
 ## Challenge 1
 VERIFIED ADDRESS: https://rinkeby.etherscan.io/address/0x867B2E694C246b2daaDE7fD75a20B96354230382#code
 
-URL: https://ipfs.io/ipfs/Qma3KNLDRwwPH4vNhDkKRY6AASPXjSzYQf5otT3ahPeb2M
+Surge url: awesome-turn.surge.sh
+
+Ipfs url: https://ipfs.io/ipfs/Qma3KNLDRwwPH4vNhDkKRY6AASPXjSzYQf5otT3ahPeb2M
 
 
 ## Challenge 2
 Verified contract address: https://rinkeby.etherscan.io/address/0x4008db6f55Ab732C0895D15562c037163f200a59#code
 
-Url: https://ipfs.io/ipfs/QmapeneQjJ2XaKHMAq3zzG4JVEG5GANEotEsmZrASpQYuK
+Surge url: noisy-attraction.surge.sh
+
+Ipfs url: https://ipfs.io/ipfs/QmapeneQjJ2XaKHMAq3zzG4JVEG5GANEotEsmZrASpQYuK
