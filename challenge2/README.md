@@ -1,5 +1,7 @@
-# Verified contract address: https://rinkeby.etherscan.io/address/0x4008db6f55Ab732C0895D15562c037163f200a59#code
-# Url: https://ipfs.io/ipfs/QmeGTd2yuSYrbJqLvzV2Q3JUN28hMXEAtJFrGHotahhgmj
+## Challenge 2 
+###   **`Surge`**:   https://noisy-attraction.surge.sh  
+###   **`IPFS`**:    https://ipfs.io/ipfs/QmapeneQjJ2XaKHMAq3zzG4JVEG5GANEotEsmZrASpQYuK
+###   **`Verified contract address`**: https://rinkeby.etherscan.io/address/0x4008db6f55Ab732C0895D15562c037163f200a59#code
 
 
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
