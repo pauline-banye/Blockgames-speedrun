@@ -1,7 +1,9 @@
-# VERIFIED ADDRESS: https://rinkeby.etherscan.io/address/0x129B9523785407Ae02459008A93b7eFa61F0fc0A#code
-# DEPLOYED URL: https://ipfs.io/ipfs/QmbASd5d9bfwUr5knneb5YTewfU9B5DEawSb9Ndmg6YDcF
-#
+## Challenge 1 
+###   **`Surge`**:   https://awesome-turn.surge.sh  
+###   **`IPFS`**:    https://ipfs.io/ipfs/Qma3KNLDRwwPH4vNhDkKRY6AASPXjSzYQf5otT3ahPeb2M
+###   **`Verified contract address`**: https://rinkeby.etherscan.io/address/0x867B2E694C246b2daaDE7fD75a20B96354230382#code
 
+#
 
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
