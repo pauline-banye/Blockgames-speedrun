@@ -1,6 +1,10 @@
-# Mint url: https://ipfs.io/ipfs/QmeferBAx3fRBAFSuMa2HDUFXFiQD57smgbcqfeQFCDEMn/
-# Verified contract address: https://rinkeby.etherscan.io/address/0x2D82E1A2e9cdd31F1Fd57416Cb87474769837900#code
 
+#  SITE  URLs           
+###   **`Surge`**:   https://well-off-leaf.surge.sh/   
+###   **`IPFS`**:    https://ipfs.io/ipfs/QmeferBAx3fRBAFSuMa2HDUFXFiQD57smgbcqfeQFCDEMn/
+###   **`Verified contract address`**: https://rinkeby.etherscan.io/address/0x2D82E1A2e9cdd31F1Fd57416Cb87474769837900#code
+
+#
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
 ## 🚩 Challenge 0: 🎟 Simple NFT Example 🤓
